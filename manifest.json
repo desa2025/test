@@ -1,0 +1,39 @@
+{
+  "name": "Pelayanan surat keterangan desa",
+  "short_name": "suratdesa",
+  "scope": "",
+  "start_url": "http://suratdesamalangan.great-site.net/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2B0C93",
+  "description": "aplikasi untuk Pelayanan surat keterangan desa ",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HbVcHT5fpBPFux27m8AtQD7KYu0vZjVOYv8yC_lctqGHHWYGSf7j8XeCdwIjGdkr6ug7sDmGMkiDr29S8Bz2K-b9yMhbN-iRdNdXqlJaPzftBUHMkyjONmOiIouR3ngnOI6l8b8Gy-IyUlYq1t8_qDSD-GX2S1sj-afdfVwuQWEYp3GNtA2VhGMbZqk/s48/logodms.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HbVcHT5fpBPFux27m8AtQD7KYu0vZjVOYv8yC_lctqGHHWYGSf7j8XeCdwIjGdkr6ug7sDmGMkiDr29S8Bz2K-b9yMhbN-iRdNdXqlJaPzftBUHMkyjONmOiIouR3ngnOI6l8b8Gy-IyUlYq1t8_qDSD-GX2S1sj-afdfVwuQWEYp3GNtA2VhGMbZqk/s72/logodms.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HbVcHT5fpBPFux27m8AtQD7KYu0vZjVOYv8yC_lctqGHHWYGSf7j8XeCdwIjGdkr6ug7sDmGMkiDr29S8Bz2K-b9yMhbN-iRdNdXqlJaPzftBUHMkyjONmOiIouR3ngnOI6l8b8Gy-IyUlYq1t8_qDSD-GX2S1sj-afdfVwuQWEYp3GNtA2VhGMbZqk/s96/logodms.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HbVcHT5fpBPFux27m8AtQD7KYu0vZjVOYv8yC_lctqGHHWYGSf7j8XeCdwIjGdkr6ug7sDmGMkiDr29S8Bz2K-b9yMhbN-iRdNdXqlJaPzftBUHMkyjONmOiIouR3ngnOI6l8b8Gy-IyUlYq1t8_qDSD-GX2S1sj-afdfVwuQWEYp3GNtA2VhGMbZqk/s144/logodms.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HbVcHT5fpBPFux27m8AtQD7KYu0vZjVOYv8yC_lctqGHHWYGSf7j8XeCdwIjGdkr6ug7sDmGMkiDr29S8Bz2K-b9yMhbN-iRdNdXqlJaPzftBUHMkyjONmOiIouR3ngnOI6l8b8Gy-IyUlYq1t8_qDSD-GX2S1sj-afdfVwuQWEYp3GNtA2VhGMbZqk/s168/logodms.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HbVcHT5fpBPFux27m8AtQD7KYu0vZjVOYv8yC_lctqGHHWYGSf7j8XeCdwIjGdkr6ug7sDmGMkiDr29S8Bz2K-b9yMhbN-iRdNdXqlJaPzftBUHMkyjONmOiIouR3ngnOI6l8b8Gy-IyUlYq1t8_qDSD-GX2S1sj-afdfVwuQWEYp3GNtA2VhGMbZqk/s192/logodms.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4HbVcHT5fpBPFux27m8AtQD7KYu0vZjVOYv8yC_lctqGHHWYGSf7j8XeCdwIjGdkr6ug7sDmGMkiDr29S8Bz2K-b9yMhbN-iRdNdXqlJaPzftBUHMkyjONmOiIouR3ngnOI6l8b8Gy-IyUlYq1t8_qDSD-GX2S1sj-afdfVwuQWEYp3GNtA2VhGMbZqk/s512/logodms.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
